@@ -2,7 +2,7 @@
 
 ## Instructions for lab submission
 
-1. Fork the assignment repo
+1. Fork the assignment repo AND
 1. Clone your Fork to your machine
 1. Complete the lab
 1. Push your changes to your Fork
